@@ -1,4 +1,4 @@
-#My Mozilla **
+#My Mozilla *b,i*
 ## Mozilla Web Literacy Training
 ### Sharing Your Work with Github!
 
