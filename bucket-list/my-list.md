@@ -14,7 +14,7 @@
  
 ## *Career*
  * ~~Learn coding skills~~
- * ~Get an education~
+ * *Get an education*
  * Get a job in Social Service Health 
 
 ## Service and volunteering
