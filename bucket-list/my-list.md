@@ -14,16 +14,16 @@
  
 ## *Career*
  * ~~Learn coding skills~~
- * Get an education
+ * ~Get an education~
  * Get a job in Social Service Health 
 
 ## Service and volunteering
  * Join a nonprofit board
  * Volunteer at a children's hospital
- * Volunteer at the VA 
+ * Volunteer at the VA
  
 ## *Creativity*
 * Write a song
-* Take an music class
+* Take a music class
 * Take a pottery class
 * Write a poem
